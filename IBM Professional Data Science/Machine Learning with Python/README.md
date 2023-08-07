@@ -1,4 +1,4 @@
-# What Will you get from this course?
+# What will you get from this Course?
 
 ## SKILLS:
 1. Regression
