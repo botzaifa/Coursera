@@ -1,0 +1,40 @@
+Regression is the Process of predicting a continuous value 
+
+Key point is that our dependent vlaue should be continuous and cannot be discrete value
+
+Types of regression Models:
+1. Simple regression
+	a. Simple Linear regression
+	b. Simple Non-Linear regression
+eg: Predict co2emission vs EngineSize of all cars
+
+2. Multiple Regression:
+	a. Multiple Linear regression
+	b. Multiple Non-Linear regression
+eg: Predict co2emission vs Engine size and Cylinders of all cars
+
+Applications of Regression:
+1. Sales Forecasting: 
+Predict a sales preson's total yearly sales from independent variables such as age, education, and years of experience. 
+
+2. Satisfaction analysis:
+Determine individual satisfation based on demographic and psychological factors.
+
+3. Price estimation: 
+Predict the price of house in an area based on its size, no of bedrooms, etc.
+
+4. Employment income:
+Predict hours of work, education, occupation, sex, agem years of experience etx.
+
+5. Many other domains such as Finance, Healthcare, retail, etc. 
+
+Regession Algorithms:
+1. Ordinal regression
+2. Poisson regression
+3. Fast forest quantile regression
+4. Linear, Polynomial, Lasso, Stepwise, Ridge regression
+5. Bayesian linear regression
+6. Neural network regression
+7. Decision forest regression
+8. Boosted decision tree regression
+9. KNN (K-Nearest Neighbours)
