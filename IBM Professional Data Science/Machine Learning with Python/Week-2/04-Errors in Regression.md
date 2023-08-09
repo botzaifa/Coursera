@@ -5,10 +5,10 @@
 # Multiple Ways of Errors:
 
 ### 1. Mean Absolute Error (MAE):
-Absolute Value of the Errors and is easiest to understand.
+It is the mean of the absolute value of the errors. This is the easiest of the metrics to understand since it’s just average error.
 
 ### 2. Mean Squared Error (MSE):
-It focuses towards large errors, due to the squared term exponentially increasing larger errors in comparison to smaller ones
+It is the mean of the squared error. It’s more popular than Mean Absolute Error because the focus is geared more towards large errors. This is due to the squared term exponentially increasing larger errors in comparison to smaller ones.
 
 ### 3. Root Mean Squared Error (RMSE):
 Square root of MSE. It is popular since it is interpretable in the same units as the response vector or Y units, making it easy to relate its information.
@@ -21,4 +21,4 @@ It is similar to RAE but is widely adopted by the data science community as it i
 
 
 # R-Squared:
-It is not an error but is a popular metric for the accuracy of your model. It represents how close the data values are to the fitted regression line. The higher the R-squared, the better the model fits your data.
+It is not an error, but rather a popular metric to measure the performance of your regression model. It represents how close the data points are to the fitted regression line. The higher the R-squared value, the better the model fits your data. The best possible score is 1.0 and it can be negative (because the model can be arbitrarily worse).
